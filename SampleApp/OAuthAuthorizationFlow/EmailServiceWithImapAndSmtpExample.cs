@@ -12,7 +12,7 @@ namespace SampleApp.OAuthAuthorizationFlow
     {
         public async Task<MailViewModel?> GetMessageDetail(int id)
         {
-
+            //check the authentication controller
             var mail = new MailViewModel();
             using (var client = new ImapClient())
             {
