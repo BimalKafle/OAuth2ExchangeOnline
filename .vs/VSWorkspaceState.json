@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SampleApp",
+    "\\SampleApp\\GraphAPi"
   ],
-  "SelectedNode": "\\D:\\OAuthExchangeOnline",
+  "SelectedNode": "\\SampleApp\\SampleApp.sln",
   "PreviewInSolutionExplorer": false
 }
